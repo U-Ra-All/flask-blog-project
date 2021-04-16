@@ -1,3 +1,4 @@
 {
-   "python.pythonPath": "virtenv/bin/python3"
+   "python.pythonPath": "virtenv/bin/python3",
+   "python.formatting.provider": "black"
 }
